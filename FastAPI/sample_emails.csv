@@ -1,0 +1,16 @@
+,label,text,label_num
+1,ham,"Hi John, thanks for the meeting today. Let me know when you have the report ready.",0
+2,ham,"Reminder: Team meeting tomorrow at 2 PM in the conference room.",0
+3,ham,"Please review the attached document and send your feedback by Friday.",0
+4,ham,"Thank you for your email. I will get back to you soon with the details.",0
+5,ham,"The project deadline has been extended to next week. Please update your schedule.",0
+6,ham,"Can we reschedule our lunch meeting to next Tuesday?",0
+7,ham,"I have attached the quarterly report for your review.",0
+8,ham,"Happy birthday! Hope you have a wonderful day.",0
+9,spam,"WIN $1000 NOW! Click here to claim your prize!",1
+10,spam,"URGENT: Your account will be closed. Verify immediately!",1
+11,spam,"Make money fast! Work from home! Earn $5000 per week!",1
+12,spam,"Buy cheap medication online. No prescription needed!",1
+13,spam,"Congratulations! You won a free iPhone! Claim now!",1
+14,spam,"Limited time offer! Get 90% off all items. Buy now!",1
+15,spam,"Your credit card has been compromised. Click here to verify.",1
